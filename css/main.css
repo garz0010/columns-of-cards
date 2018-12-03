@@ -23,7 +23,8 @@ h2 {
 }
 
 h3 {
-  font-size: 1rem bold;
+  font-size: 1rem;
+  font-style: bold;
 }
 
 i {
@@ -41,7 +42,8 @@ div {
 }
 
 .btn {
-font-size: 1rem bold;
+font-size: 1rem;
+font-style: bold;
 color: #e2e2e2;
 background-color: #333;
 padding: .4em .75em .3em;
